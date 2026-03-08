@@ -1,0 +1,11 @@
+{
+  "name": "github-ai-chat",
+  "version": "1.0.0",
+  "description": "GitHub Models AI Chat with Vercel Backend",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
